@@ -1,0 +1,10 @@
+ # oschina
+ Host git@gitee.com
+ HostName git@gitee.com
+ PreferredAuthentications publickey
+ IdentityFile ~/.ssh/id_rsa
+ # github
+ Host github.com
+ HostName github.com
+ PreferredAuthentications publickey
+ IdentityFile ~/.ssh/github
