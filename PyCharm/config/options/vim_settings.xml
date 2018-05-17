@@ -1,0 +1,155 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/gui/__init__.py" timestamp="1526383897292">
+        <mark key="[" line="3" column="28" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/core/qt_app.py" timestamp="1526455303184">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1526455314838">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/tools/__init__.py" timestamp="1526383246824">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1526448102873">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/model/base.py" timestamp="1526455776774">
+        <mark key="'" line="123" column="12" />
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="77" column="27" />
+        <mark key="." line="77" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/quina_test/model.py" timestamp="1526457315370">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Project/CarrierSingle/requirements.txt" timestamp="1526378184047">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="E:/Anaconda3/envs/Python34/Lib/site-packages/prett/widget_interface.py" timestamp="1526457290701" />
+      <file name="E:/Anaconda3/envs/Python34/Lib/site-packages/quite/gui/ui_extension.py" timestamp="1526383854447">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="52" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Struct/quina/tests/model/test_base.py" timestamp="1526448183223" />
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/model/types/string_type.py" timestamp="1526448987725" />
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/model/widget_types.py" timestamp="1526448428620" />
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/gui/widgets/combo_box.py" timestamp="1526385503539">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/gui/ui_extention.py" timestamp="1526383881879">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/model/types/float_type.py" timestamp="1526456639735" />
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/core/__init__.py" timestamp="1526455312703">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="G:/KunDe/SourceCode/Struct/quina/quina/gui/widgets/__init__.py" timestamp="1526383916252">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/quina_test/model.py" />
+      <jump line="31" column="66" filename="$USER_HOME$/Desktop/quina_test/model.py" />
+      <jump line="44" column="55" filename="$USER_HOME$/Desktop/quina_test/model.py" />
+      <jump line="9" column="26" filename="G:/KunDe/SourceCode/Struct/quina/quina/model/base.py" />
+      <jump line="11" column="0" filename="G:/KunDe/SourceCode/Struct/quina/quina/model/base.py" />
+      <jump line="6" column="17" filename="G:/KunDe/SourceCode/Struct/quina/quina/model/base.py" />
+      <jump line="0" column="0" filename="G:/KunDe/SourceCode/Struct/quina/quina/model/base.py" />
+      <jump line="123" column="12" filename="G:/KunDe/SourceCode/Struct/quina/quina/model/base.py" />
+      <jump line="52" column="26" filename="$USER_HOME$/Desktop/quina_test/model.py" />
+      <jump line="3" column="13" filename="G:/KunDe/SourceCode/Struct/quina/quina/core/qt_app.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>999</text>
+      </register>
+      <register name="-" type="4">
+        <text>999</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KGZsb2F0X2l0ZW0uX19kaWN0X18pCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnNvdXJjZV9nZXR0ZSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGZsb2F0X2l0ZW0gPSB0eXBlcy5GbG9hdEl0ZW0oKQogICAgZmxvYXRfaXRlbV90d28gPSB0eXBlcy5GbG9hdEl0ZW0oKQogICAgcHJpbnQoZGlyKGZsb2F0X2l0ZW0pKQogICAgcHJpbnQoZmxvYXRfaXRlbV90d28uZmxvYXQudmFsdWUpCiAgICBmbG9hdF9pdGVtX3R3by5mbG9hdC5jb25uZWN0KGZsb2F0X2l0ZW0uZmxvYXQpCiAgICBmbG9hdF9pdGVtLmZsb2F0LnZhbHVlID0gMTIuNgogICAgcHJpbnQoZmxvYXRfaXRlbV90d28uZmxvYXQudmFsdWUpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZsb2F0KHNlbGYuZ2V0X3ZhbHVlKCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSAucXRfYXBwIGltcG9ydCBxdF9hcHAsIFF0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwoKClF0ID0gUXRDb3JlLlF0CiMgbm9pbnNwZWN0aW9uIFB5QXJndW1lbnRMaXN0CnF0X2FwcCA9IFF0V2lkZ2V0cy5RQXBwbGljYXRpb24uaW5zdGFuY2UoKQoKaWYgbm90IHF0X2FwcDoKICAgIGlmIGdldGF0dHIoc3lzLCAnZnJvemVuJywgTm9uZSk6ICAjIHByYWdtYTogbm8gY292ZXIKICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUFyZ3VtZW50TGlzdAogICAgICAgIFF0V2lkZ2V0cy5RQXBwbGljYXRpb24uYWRkTGlicmFyeVBhdGgoUXRDb3JlLlFEaXIuY3VycmVudFBhdGgoKSkKCiAgICBxdF9hcHAgPSBRdFdpZGdldHMuUUFwcGxpY2F0aW9uKFtdKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBQeVNpZGUyIGltcG9ydCBRdENvcmUsIFF0V2lkZ2V0cwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsp G:\KunDe\SourceCode\Struct\quina\quina\model\types\float_type.py</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>vsp E:\Anaconda3\envs\Python34\Lib\site-packages\quite\tools\load_ui.py</entry>
+        <entry>w</entry>
+        <entry>vsp E:\Anaconda3\envs\Python34\Lib\site-packages\quite\gui\widgets\combo_box.py</entry>
+        <entry>vsp G:\KunDe\SourceCode\Struct\quina\quina\model\base.py</entry>
+        <entry>vsp G:\KunDe\SourceCode\Struct\quina\quina\model\types\float_type.py</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
