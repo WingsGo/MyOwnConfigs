@@ -15,16 +15,18 @@
     <location key="FileChooserDialogImpl.0.0.1921.1080@119dpi" x="688" y="213" />
     <location key="WELCOME_SCREEN.0.0.1921.1080@119dpi" x="962" y="450" />
     <location key="#Inspections.0.0.1921.1080@119dpi" x="505" y="110" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1921.1080@119dpi" x="630" y="259" />
+    <location key="#carrier.0.0.1921.1080@119dpi" x="645" y="66" />
     <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1920" height="268" />
     <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1920" height="268" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1920" height="268" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1920" height="268" />
     <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="500" height="234" />
     <size key="ProcessPopupWindow.0.0.1921.1080@119dpi" width="499" height="152" />
-    <size key="GridCell.Tab.0.left.0.0.1921.1080@119dpi" width="547" height="873" />
-    <size key="GridCell.Tab.0.center.0.0.1921.1080@119dpi" width="547" height="873" />
-    <size key="GridCell.Tab.0.right.0.0.1921.1080@119dpi" width="547" height="873" />
-    <size key="GridCell.Tab.0.bottom.0.0.1921.1080@119dpi" width="547" height="873" />
+    <size key="GridCell.Tab.0.left.0.0.1921.1080@119dpi" width="505" height="874" />
+    <size key="GridCell.Tab.0.center.0.0.1921.1080@119dpi" width="505" height="874" />
+    <size key="GridCell.Tab.0.right.0.0.1921.1080@119dpi" width="505" height="874" />
+    <size key="GridCell.Tab.0.bottom.0.0.1921.1080@119dpi" width="505" height="874" />
     <size key="GridCell.Tab.1.left.0.0.1921.1080@119dpi" width="547" height="873" />
     <size key="GridCell.Tab.1.center.0.0.1921.1080@119dpi" width="547" height="873" />
     <size key="GridCell.Tab.1.right.0.0.1921.1080@119dpi" width="547" height="873" />

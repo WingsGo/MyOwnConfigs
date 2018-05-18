@@ -335,19 +335,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="*.bat">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="CMD Support" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="*.beam">
       <plugins>
         <option name="myPlugins">
@@ -629,19 +616,6 @@
             </plugin>
             <plugin>
               <option name="myPluginId" value="nl.rubensten.texifyidea" />
-              <option name="myPluginName" />
-              <option name="myBundled" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="*.cmd">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="CMD Support" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
