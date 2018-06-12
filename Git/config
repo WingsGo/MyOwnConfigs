@@ -2,9 +2,14 @@
  Host git@gitee.com
  HostName git@gitee.com
  PreferredAuthentications publickey
- IdentityFile ~/.ssh/id_rsa
+ IdentityFile ~/.ssh/gitee
  # github
  Host github.com
  HostName github.com
  PreferredAuthentications publickey
  IdentityFile ~/.ssh/github
+ # gitlab
+ Host gitlab.com
+ HostName gitlab.com
+ PreferredAuthentications publickey
+ IdentityFile ~/.ssh/gitlab
