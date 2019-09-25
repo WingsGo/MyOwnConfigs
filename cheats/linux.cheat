@@ -1,4 +1,4 @@
-%linux
+% linux
 
 # Find file
 find <path> -name <target>
