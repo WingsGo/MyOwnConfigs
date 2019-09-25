@@ -1,0 +1,16 @@
+%linux
+
+# Find file
+find <path> -name <target>
+
+# Find directory
+find <path> -name <target> -type d
+
+# Show directory usage
+du -h --max-depth=1
+
+# Create link file
+ls -s <source_file> <link_file>
+
+# Create compressed file
+tar -cvf <compressed_file> <source_file>
